@@ -1,0 +1,43 @@
+.footer {
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    font-size: 14px;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer-content p {
+    margin-right: 10px;
+    margin-bottom: -6px;
+  }
+  
+  .newsletter-form {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .newsletter-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  .newsletter-button {
+    padding: 8px 16px;
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
